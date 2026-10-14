@@ -1,0 +1,5 @@
+ticket_id,device,priority,status,opened_on
+T-DEMO-001,Office Printer,normal,open,2026-10-12
+T-DEMO-002,Dispatch Tablet,high,open,2026-10-11
+T-DEMO-003,Workstation-04,low,closed,2026-10-09
+T-DEMO-004,Ticket Kiosk,high,open,2026-10-12
