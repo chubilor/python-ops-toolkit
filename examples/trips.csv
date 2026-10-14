@@ -1,0 +1,5 @@
+trip_id,status,miles,fare
+DEMO-001,completed,8.50,17.75
+DEMO-002,cancelled,0,0
+DEMO-003,completed,4.25,9.10
+DEMO-004,in_progress,0,0
