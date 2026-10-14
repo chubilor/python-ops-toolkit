@@ -1,0 +1,5 @@
+vendor,invoice_id,amount,due_date
+Example Supply,INV-1001,145.50,2026-11-01
+Example Supply,INV-1002,82.00,2026-11-05
+Demo Repairs,INV-9002,250.00,2026-11-12
+Example Supply,INV-1001,145.50,2026-11-01
