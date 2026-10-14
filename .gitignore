@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+invoice_issues.csv
+website_report.json
+contacts_clean.csv
+contacts_rejected.csv
+trip_summary.json
+ticket_summary.json
+resumes/
+python-ops-toolkit.zip
